@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! My name is Connor (CJ) Gladish. I am a Cybersecurity student at University of Tennessee - Martin on my journey to becoming a DevOps Engineer.</h2>
+<h2 align="left">Hi👋! My name is Connor (CJ) Gladish. I am a Cybersecurity student at University of Tennessee - Martin on my journey to becoming a Cybersecurity Engineer.</h2>
 
 ###
 
