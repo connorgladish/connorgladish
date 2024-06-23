@@ -16,13 +16,13 @@
 
 - 🔭 I’m currently working on `Portfolio Website`.
 
-- 🌱 I’m currently learning `CompTia Security+`
+- 🌱 I’m currently learning `CompTia Security+`.
 
-- 👯 I’m looking to collaborate for `Development Projects`
+- 👯 I’m looking to collaborate for `Development Projects`.
 
-- 🤔 I’m looking for help with `Security Architecture`
+- 🤔 I’m looking for help with `Security Architecture`.
 
-- 💬 Ask me about anything, Except Math :sweat_smile:
+- 💬 Ask me about anything, Except Math. :sweat_smile:
 
   
 
