@@ -22,11 +22,11 @@
 
 - 🤔 I’m looking for help with `Security Architecture`.
 
-- 💬 Ask me about anything, Except Math. :sweat_smile:
+- 💬 Ask me about anything, except Math. :sweat_smile:
 
   
 
-## 🛠️ Technologies and Tools I use:
+## 🛠️ My Stack:
 
 <p>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
