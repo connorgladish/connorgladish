@@ -10,7 +10,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img src="[https://giphy.com/gifs/creative-coding-programming-zgduo4kWRRDVK](https://giphy.com/gifs/creative-coding-programming-zgduo4kWRRDVK)" height="290px" align="right" />
+<img src="https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif" height="290px" align="right" />
 
 - 🔭 I’m currently working on `Portfolio Website`.
 
