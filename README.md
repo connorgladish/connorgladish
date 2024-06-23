@@ -73,7 +73,6 @@
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30px"/>
 <img alt="Google" src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30px"/>
 <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" height="30px"/>
-<img alt="Active Directory" src="https://img.shields.io/badge/Active_Directory-0052CC?style=for-the-badge&logo=active-directory&logoColor=white" height="30px"/>
 <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" height="30px"/>
 </p>
 
