@@ -28,6 +28,8 @@
 
 <p>
 <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="30px"/>
+<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30px"/>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30px"/>
 <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="30px"/>
 <img alt="Nmap" src="https://img.shields.io/badge/Nmap-4B1248?style=for-the-badge&logo=nmap&logoColor=white" height="30px"/>
 <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6347?style=for-the-badge&logo=burp-suite&logoColor=white" height="30px"/>
@@ -62,6 +64,17 @@
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="30px"/>
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="30px"/>
 <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="30px"/>
+</p>
+
+## 🛠️ My Cloud Stack:
+
+<p>
+<img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="30px"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30px"/>
+<img alt="Google" src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30px"/>
+<img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" height="30px"/>
+<img alt="Active Directory" src="https://img.shields.io/badge/Active_Directory-0052CC?style=for-the-badge&logo=active-directory&logoColor=white" height="30px"/>
+<img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" height="30px"/>
 </p>
 
 ## ❤️ Let's get connected:
