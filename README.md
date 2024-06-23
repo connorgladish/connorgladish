@@ -22,7 +22,7 @@
 
 - 🤔 I’m looking for help with `Security Architecture`.
 
-- 💬 Ask me about anything, except Math. :sweat_smile:
+- 💬 Ask me about anything, except math. :sweat_smile:
 
   
 
