@@ -24,7 +24,24 @@
 
 - 💬 Ask me about anything, except math. :sweat_smile:
 
-  
+## 🛠️ My Cybersecurity Stack:
+
+<p>
+<img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="25px"/>
+<img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="25px"/>
+<img alt="Nmap" src="https://img.shields.io/badge/Nmap-4B1248?style=for-the-badge&logo=nmap&logoColor=white" height="25px"/>
+<img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6347?style=for-the-badge&logo=burp-suite&logoColor=white" height="25px"/>
+<img alt="Tor" src="https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=tor&logoColor=white" height="25px"/>
+<img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" height="25px"/>
+<img alt="Argus" src="https://img.shields.io/badge/Argus-0072C6?style=for-the-badge&logo=argus&logoColor=white" height="25px"/>
+<img alt="Snort" src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white" height="25px"/>
+<img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="25px"/>
+<img alt="VMware" src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="25px"/>
+<img alt="Duo Security" src="https://img.shields.io/badge/Duo_Security-0072C6?style=for-the-badge&logo=duo-security&logoColor=white" height="25px"/>
+<img alt="tcpdump" src="https://img.shields.io/badge/tcpdump-4B0082?style=for-the-badge&logo=tcpdump&logoColor=white" height="25px"/>
+<img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white" height="25px"/>
+
+</p>
 
 ## 🛠️ My Dev Stack:
 
