@@ -78,9 +78,9 @@
 
 ## ⌨️ My Certifications
 
-- 🎖️  `TryHackMe` Secure Operations Center Tier 1.
+- 🎖️  `TryHackMe` Security Operations Center Tier 1.
 
-- 🎖️  `TryHackMe` Secure Operations Center Tier 2.
+- 🎖️  `TryHackMe` Security Operations Center Tier 2.
 
 - 🎖️  `CompTia` A+. (WIP)
 
