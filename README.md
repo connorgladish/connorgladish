@@ -44,7 +44,7 @@
 <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white" height="30px"/>
 </p>
 
-## 🛠️ My Dev Stack:
+## 🛠️ My Development Stack:
 
 <p>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30px"/>
