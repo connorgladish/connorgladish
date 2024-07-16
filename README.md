@@ -105,5 +105,5 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=connorgladish&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=connorgladish&" alt="connorgladish" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=connorgladish&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="connorgladish" height="192px"  width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=connorgladish&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="connorgladish" height="192px"  width="600px"/>
 </div>
