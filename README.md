@@ -10,6 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Charles-Chrismann">
 </p>
+
 ## 👨🏻‍💻 About Me:
 
 <img src="https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif" height="200px" align="right" />
