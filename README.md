@@ -8,7 +8,7 @@
 
  <br/>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Charles-Chrismann">
+  <img src="https://komarev.com/ghpvc/?username=connorgladish">
 </p>
 
 ## 👨🏻‍💻 About Me:
