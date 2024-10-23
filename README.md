@@ -85,7 +85,9 @@
 
 - 🎖️  `TryHackMe` Security Operations Center Tier 2.
 
-- 🎖️  `CompTia` A+. (WIP)
+- 🎖️  `CompTia` A+.
+- 
+- 🎖️  `CompTia` Network+. (WIP)
 
 - 🎖️  `CompTia` Security+. (WIP)
 
