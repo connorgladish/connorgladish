@@ -17,7 +17,7 @@
 
 
 
-- 🔭 I’m currently working on `Portfolio Website`.
+- 🔭 I’m currently working on `Card-Jitsu Fan Remake`.
 
 - 🌱 I’m currently learning `CompTia Security+`.
 
