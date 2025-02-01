@@ -17,13 +17,13 @@
 
 
 
-- 🔭 I’m currently working on `Card-Jitsu Fan Remake`.
+- 🔭 I’m currently working on `Portfolio/Blog Website`.
 
 - 🌱 I’m currently learning `CompTia Security+`.
 
-- 👯 I’m looking to collaborate for `Development Projects`.
+- 👯 I’m looking to collaborate for `Community Projects`.
 
-- 🤔 I’m looking for help with `Security Architecture`.
+- 🤔 I’m looking for help with `Tech Volunteering`.
 
 - 💬 Ask me about anything, except math. :sweat_smile:
 
