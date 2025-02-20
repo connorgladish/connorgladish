@@ -81,6 +81,8 @@
 
 ## ⌨️ My Certifications
 
+- 🎖️  `Google` Cybersecurity Professional
+
 - 🎖️  `TryHackMe` Security Operations Center Tier 1.
 
 - 🎖️  `TryHackMe` Security Operations Center Tier 2.
