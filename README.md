@@ -25,6 +25,8 @@
 
 - 🤔 I’m looking for help with `Tech Volunteering`.
 
+- ⚡ Fun Fact: `I'm learning Japanese`.
+
 - 💬 Ask me about anything, except math. :sweat_smile:
 
 ## 🛠️ My Cybersecurity Stack:
