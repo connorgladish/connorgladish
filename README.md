@@ -83,7 +83,7 @@
 
 ## ⌨️ My Certifications
 
-- 🎖️  `Google` Cybersecurity Professional
+- 🎖️  `Google` Cybersecurity Professional.
 
 - 🎖️  `TryHackMe` Security Operations Center Tier 1.
 
@@ -94,10 +94,6 @@
 - 🎖️  `CompTia` Network+. (WIP)
 
 - 🎖️  `CompTia` Security+. (WIP)
-
-- 🎖️  `Azure` AZ900. (WIP)
-
-- 🎖️  `Microsoft` MS102. (WIP)
 
   
 ## ❤️ Let's get connected:
