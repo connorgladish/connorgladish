@@ -95,6 +95,9 @@
 
 - 🎖️  `CompTia` Security+. (WIP)
 
+- 🎖️  `CompTia` CySA+. (WIP)
+
+
   
 ## ❤️ Let's get connected:
 
